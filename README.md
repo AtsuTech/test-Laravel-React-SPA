@@ -1,4 +1,4 @@
-##　(SPA)Laravel+React
+##　(SPA)Laravel+React+Sanctum
 
 登録・ログイン・ログアウト周りを実装
 
